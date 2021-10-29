@@ -14,3 +14,4 @@ ensure rdx_atm
 ```
 ## Screenshots
 ![rdx_atm](https://cdn.discordapp.com/attachments/686807996420063232/901636197393244200/unknown.png)
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
